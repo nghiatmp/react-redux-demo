@@ -1,0 +1,11 @@
+.hobby-list {
+  width: 25%;
+  margin: auto;
+}
+li {
+  cursor: pointer;
+  transition: all 0.25s ease-in-out;
+}
+.active {
+  color: deeppink;
+} 
